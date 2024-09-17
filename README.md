@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafsun jani</h1>
 <h3 align="center">Working as a Software Engineer I at JoulesLabs</h3>
-<a href="https://linkedin.com/in/rafsun-jani" target="blank" align="center"></a>
+<a href="https://linkedin.com/in/rafsun-jani-122a40169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafsun-jani-122a40169" height="30" width="40" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafsun83&label=Profile%20views&color=0e75b6&style=flat" alt="rafsun83" /> </p>
 
