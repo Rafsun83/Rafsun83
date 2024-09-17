@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rafsun jani</h1>
 <h3 align="center">Working as a Software Engineer I at JoulesLabs</h3>
+<div>
+  <p align="center" ><a href="https://linkedin.com/in/rafsun-jani-122a40169" target="blank" align="center" ><img src="https://camo.githubusercontent.com/63c5628475bc11d3e5262b303261fcdb3d43a5f2a19b99eba7ce3b80cd0d0abc/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt="rafsun-jani-122a40169" height="30" width="30" /></a></p>
 <p align="center" ><a href="https://linkedin.com/in/rafsun-jani-122a40169" target="blank" align="center" ><img src="https://camo.githubusercontent.com/63c5628475bc11d3e5262b303261fcdb3d43a5f2a19b99eba7ce3b80cd0d0abc/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt="rafsun-jani-122a40169" height="30" width="30" /></a></p>
-<p align="center" ><a href="https://linkedin.com/in/rafsun-jani-122a40169" target="blank" align="center" ><img src="https://camo.githubusercontent.com/63c5628475bc11d3e5262b303261fcdb3d43a5f2a19b99eba7ce3b80cd0d0abc/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt="rafsun-jani-122a40169" height="30" width="30" /></a></p>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafsun83&label=Profile%20views&color=0e75b6&style=flat" alt="rafsun83" /> </p>
 
